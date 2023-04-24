@@ -1,0 +1,1 @@
+This was an assignment containing 5 different array challenges. Each challenge has the instructions before it in the JS file. 
